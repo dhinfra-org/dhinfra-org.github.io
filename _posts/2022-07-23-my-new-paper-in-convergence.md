@@ -14,7 +14,7 @@ categories:
 
 <img src="/wp-content/2022/357.jpg"  width="700" height="300">
 
-My new open access article has been published in the *Convergence: The International Journal of Research into New Media Technologies*. Based on the ethnography of [King’s Digital Lab](https://kdl.kcl.ac.uk), I analyse Feasibility documents and propose a theoretical and methodological approach towards the study of documents in digital research production. The full article is available [here](https://journals.sagepub.com/doi/full/10.1177/13548565221111073).
+My new open access article has been published in the *Convergence: The International Journal of Research into New Media Technologies*. Based on the ethnography of [King’s Digital Lab](https://kdl.kcl.ac.uk), I analyse Feasibility documents and propose a theoretical and methodological approach towards the study of documents in digital research production. The full article is available [here](https://journals.sagepub.com/doi/full/10.1177/13548565221111073). <!--more-->
 
 Abstract:
 

@@ -14,7 +14,7 @@ categories:
 
 <img src="/wp-content/2021/307.jpg"  width="700" height="300">
 
-I’m excited to edit the *Critical Infrastructure Studies &amp; Digital Humanities* book together with Prof. Alan Liu (University of California, Santa Barbara) and Prof. James Smithies (King’s College London) for the [Debates in the Digital Humanities Series](https://dhdebates.gc.cuny.edu/) (University of Minnesota Press). Call for Papers is open for submissions! Deadline: **December 15, 2021**.
+I’m excited to edit the *Critical Infrastructure Studies &amp; Digital Humanities* book together with Prof. Alan Liu (University of California, Santa Barbara) and Prof. James Smithies (King’s College London) for the [Debates in the Digital Humanities Series](https://dhdebates.gc.cuny.edu/) (University of Minnesota Press). Call for Papers is open for submissions! Deadline: **December 15, 2021**. <!--more-->
 
 Please see the full CFP and timeline on the Debates in the Digital Humanities Series website: <https://dhdebates.gc.cuny.edu/page/cfp-critical-infrastructure-studies-digital-humanities>
 

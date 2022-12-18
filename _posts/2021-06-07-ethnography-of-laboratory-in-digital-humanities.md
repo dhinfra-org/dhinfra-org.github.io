@@ -15,7 +15,7 @@ categories:
 
 <img src="/wp-content/2021/246.jpg"  width="700" height="300">
 
-Below, you can find slides presentation for a conference talk given by Urszula Pawlicka-Deger at the Digital Humanities Summer Institute (DHSI) organised by the University of Victoria, Canada in June 2021. More details can be found on the DHSI 2021 website [here](https://dhsi.org/dhsi-2021-online-edition/).
+Below, you can find slides presentation for a conference talk given by Urszula Pawlicka-Deger at the Digital Humanities Summer Institute (DHSI) organised by the University of Victoria, Canada in June 2021. More details can be found on the DHSI 2021 website [here](https://dhsi.org/dhsi-2021-online-edition/). <!--more-->
 
 **Ethnography of Laboratory in Digital Humanities: Methodological Reflections**
 

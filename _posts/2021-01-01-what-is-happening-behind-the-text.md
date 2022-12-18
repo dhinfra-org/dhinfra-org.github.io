@@ -15,7 +15,7 @@ categories:
 
 <img src="/wp-content/2021/109.jpg"  width="700" height="300">
 
-*‘You doubt what I wrote? Let me show you.’ The very rare and obstinate dissenter who has not been convinced by the scientific text, and who has not found other ways to get rid of the author, is led from the text into the place where the text is said to come from.* (B. Latour, Science in Action, 1987).
+*‘You doubt what I wrote? Let me show you.’ The very rare and obstinate dissenter who has not been convinced by the scientific text, and who has not found other ways to get rid of the author, is led from the text into the place where the text is said to come from.* (B. Latour, Science in Action, 1987). <!--more-->
 
 In the 1970s, sociologist Bruno Latour stepped inside a neuroendocrinology research laboratory at the Salk Institute in California to seek answers to the questions: What happens inside laboratory walls? How are scientific facts produced in a laboratory? Questions such as these stimulated ethnographic studies of laboratories aimed at understanding scientific work. Laboratory ethnography was a seminal movement, which conceived of science as the social practice of constructing scientific knowledge rather than an area that merely seeks to reveal reality. The study of science and technology through direct observation at the root of where knowledge is produced – in the laboratory – contributed to enhancing the public understanding of the substance of science that is, in fact, a network of complex actors and factors. Science is no longer seen as a mystical work in a sterile laboratory but as a planned process of manual and conceptual activities entangled with social, economic, and political aspects.
 

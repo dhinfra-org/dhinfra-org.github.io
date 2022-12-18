@@ -244,6 +244,10 @@ jekyll-archives:
 
 display_tags: ['2022', '2021'] # this tags will be dispalyed on the front page of your blog
 
+display_years: ['2022', '2021'] # this tags will be dispalyed on the front page of your blog
+
+excerpt_separator: <!--more-->
+
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------

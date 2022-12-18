@@ -20,7 +20,7 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
 
-  {% if site.display_tags %}
+  <!-- {% if site.display_tags %}
   <div class="tag-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
@@ -32,6 +32,19 @@ pagination:
         {% endunless %}
       {% endfor %}
     </ul>
+  </div>
+  {% endif %} -->
+
+  {% if site.display_years %}
+  <div class="tag-list">
+    <ul class="p-0 m-0">
+      {% for year in site.display_years %}
+      <li>
+          <i class="fas fa-calendar fa-sm"></i>  <a href="{{ year | slugify | prepend: '/blog/' | relative_url }}">{{ year }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+    <p>
   </div>
   {% endif %}
 
@@ -62,7 +75,13 @@ pagination:
           {% endif %}
         {% endif %}
       </h3>
-      <p>{{ post.description }}</p>
+      <p>
+        <!-- {{ post.description }} -->
+        {{ post.excerpt }}
+          {% if post.content.size > post.excerpt.size %}
+            <a href="{{ post.permalink }}"><b>Continue reading...</b></a>
+          {% endif %}
+      </p>
       <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
         {{ post.date | date: '%B %-d, %Y' }}

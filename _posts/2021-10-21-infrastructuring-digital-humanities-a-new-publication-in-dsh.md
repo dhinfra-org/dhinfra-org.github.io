@@ -14,7 +14,7 @@ categories:
 
 <img src="/wp-content/2021/303.jpg"  width="700" height="300">
 
-I am excited to share that my new article “Infrastructuring digital humanities: On relational infrastructure and global reconfiguration of the field” has been published in *Digital Scholarship in the Humanities* (17 September 2021, Oxford University Press). It is open access so you can read and download it for free [here](https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqab086/6372159).
+I am excited to share that my new article “Infrastructuring digital humanities: On relational infrastructure and global reconfiguration of the field” has been published in *Digital Scholarship in the Humanities* (17 September 2021, Oxford University Press). It is open access so you can read and download it for free [here](https://academic.oup.com/dsh/advance-article/doi/10.1093/llc/fqab086/6372159). <!--more-->
 
 Here is the abstract:
 

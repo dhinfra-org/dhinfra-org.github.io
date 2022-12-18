@@ -14,7 +14,7 @@ categories:
 
 <img src="/wp-content/2021/209.jpg"  width="700" height="300">
 
-Below, you can find slides presentation for a conference talk given by Urszula Pawlicka-Deger at the Global Digital Humanities Symposium organised by Michigan State University, US. More details can be found on the MSU Global DH website [here](http://msuglobaldh.org).
+Below, you can find slides presentation for a conference talk given by Urszula Pawlicka-Deger at the Global Digital Humanities Symposium organised by Michigan State University, US. More details can be found on the MSU Global DH website [here](http://msuglobaldh.org). <!--more-->
 
 **Infrastructure as the Origin of Inequities: A Case of Global Digital Humanities**
 
